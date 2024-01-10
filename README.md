@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Simon! 
 
-# About Me
+## 💫 About Me
 
 - 🌐 Full Stack Developer from Nepal.
 - 🌱 Currently learning React Native.
