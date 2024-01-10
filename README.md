@@ -16,7 +16,7 @@
 
 ## Socials
 
-- [LinkedIn]((https://www.linkedin.com/in/simon-shrestha-9706271bb/))
+- [LinkedIn](https://www.linkedin.com/in/simon-shrestha-9706271bb/)
 
 ## Most Used Languages
 
