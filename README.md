@@ -8,11 +8,11 @@
 
 ## Tech Stack
 
-- Frontend: HTML5, CSS3, JavaScript, React, React Router, TailwindCSS , Nextjs
-- Backend: NodeJS, Express.js, JWT
-- Database: MySQL
-- Tools: Git, NPM
-- Other: React Native(in progress)
+- Frontend: HTML5, CSS3, JavaScript, React, React Router, TailwindCSS 💅, Next.js 🚀
+- Backend: NodeJS 🛢️, Express.js 🚄, JWT 🔐
+- Database: MySQL 🐬
+- Tools: Git 🐙, NPM 📦
+- Other: React Native (in progress) 📱
 
 ## Socials
 
